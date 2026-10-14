@@ -1,5 +1,5 @@
 def count_down(start, end):
-    for i in range(start, end, -1):
+zsh:1: command not found: :wq
         print(i)
 
 
